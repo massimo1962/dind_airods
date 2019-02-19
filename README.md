@@ -3,14 +3,13 @@ docker in docker airods api
 
 ## :: up and running in 3 step ::
 
-<br>
+<hr>
 1 edit .projectrc config file with info on mongo and irods connections: 
 ### vi .projectrc  
-<br>
-<br>
+
 2 run install all:
 ### ./setup.sh
-<br>
+
  at the end will be displayed
 
 ```
@@ -21,10 +20,10 @@ Run unittests with:
 #restapi tests
 ```
 
-<br>
+
 3 run api command:
 ### restapi launch 
-</br>
+
 
 enjoy!
 </br></br>
