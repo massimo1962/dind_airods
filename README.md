@@ -11,17 +11,26 @@ run install all:
 ### ./setup.sh
  at the end will be displayed </br>
 
+```
+Launch the REST HTTP-API server with the command:
+#restapi launch
 
- </br>
+Run unittests with:
+#restapi tests
+```
+
+
 run api command:
 ### restapi launch 
 
-</br>
+
 enjoy!
 
-</br>
-in another terminal could be launched swagger interface with the command:</br>
-*docker exec -it dind-airods rapydo interfaces swagger*</br>
+
+in another terminal could be launched swagger interface with the command:
+
+*docker exec -it dind-airods rapydo interfaces swagger*
+
 that will be available on port 8080
 
 
