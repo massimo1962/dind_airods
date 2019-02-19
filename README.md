@@ -1,15 +1,15 @@
 # dind_airods
 docker in docker airods api
 
-*up and running in 3 step::*
+## up and running in 3 step::
 
 clone this repo;</br>
-### edit .projectrc file </br>
-with info on mongo and irods connections </br>
+### vi .projectrc  
+edit this config file with info on mongo and irods connections </br>
 
-run install all</br>
-### ./setup.sh</br>
- at the end will be displayed </br></br>
+run install all
+### ./setup.sh
+ at the end will be displayed </br>
 
 ```
 Launch the REST HTTP-API server with the command:
