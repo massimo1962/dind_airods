@@ -11,13 +11,7 @@ run install all:
 ### ./setup.sh
  at the end will be displayed </br>
 
-```
-Launch the REST HTTP-API server with the command:
-#restapi launch
 
-Run unittests with:
-#restapi tests
-```
  </br>
 run api command:
 ### restapi launch 
