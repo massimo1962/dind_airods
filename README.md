@@ -12,7 +12,7 @@ docker in docker airods api
 ### ./setup.sh
 </br>
  at the end will be displayed
-</br>
+
 ```
 Launch the REST HTTP-API server with the command:
 #restapi launch
