@@ -3,7 +3,7 @@ docker in docker airods api
 
 ## :: up and running in 3 step ::
 
-<hr>
+
 1 edit .projectrc config file with info on mongo and irods connections: 
 ### vi .projectrc  
 
