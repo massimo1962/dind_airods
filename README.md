@@ -24,8 +24,8 @@ run api command:</br>
 
 enjoy!
 
-
-in another terminal could be launched swagger interface with the command:
+</br>
+in another terminal could be launched swagger interface with the command:</br>
 docker exec -it dind-airods rapydo interfaces swagger
 
 
