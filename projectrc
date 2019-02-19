@@ -1,0 +1,24 @@
+
+project: airods
+mode: debug
+project_configuration:
+    variables:
+        env:
+            ### MONGO DB ###
+            MONGO_HOST: 100.100.100.100
+            MONGO_DATABASE: database
+            MONGO_PORT: 27017            
+
+            ### IRODS ###
+            IRODS_HOST: 100.100.100.100           
+            IRODS_USER: xoxoxo
+            IRODS_PASSWORD: xoxoxo # NOTE: must match ALCHEMY_PASSWORD
+            IRODS_ZONE: zonename
+            IRODS_HOME: homename            
+
+            ### ICAT ###
+            ALCHEMY_USER: xoxoxo
+            ALCHEMY_PASSWORD: xoxoxo
+            
+
+
