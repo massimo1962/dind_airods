@@ -12,10 +12,11 @@ run install all
 
 
 Launch the REST HTTP-API server with the command:
-# restapi launch
+restapi launch
 
 Run unittests with:
-# restapi tests
+restapi tests
+
 
 run api command:
 restapi launch
