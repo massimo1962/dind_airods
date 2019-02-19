@@ -1,7 +1,7 @@
 # dind_airods
 docker in docker airods api
 
-up and running in 3 step::
+*up and running in 3 step::*
 
 clone this repo;</br>
 ### edit .projectrc file </br>
@@ -26,7 +26,7 @@ enjoy!
 
 </br>
 in another terminal could be launched swagger interface with the command:</br>
-docker exec -it dind-airods rapydo interfaces swagger</br>
+```docker exec -it dind-airods rapydo interfaces swagger```</br>
 that will be available on port 8080
 
 
