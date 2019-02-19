@@ -3,9 +3,10 @@ docker in docker airods api
 
 ## :: up and running in 3 step ::
 
-clone this repo;</br>
+
+edit .projectrc config file with info on mongo and irods connections 
 ### vi .projectrc  
-edit this config file with info on mongo and irods connections </br> </br>
+
 
 run install all:
 ### ./setup.sh
