@@ -5,7 +5,7 @@ docker in docker airods api
 
 clone this repo;</br>
 ### vi .projectrc  
-edit this config file with info on mongo and irods connections </br>
+edit this config file with info on mongo and irods connections </br> </br>
 
 run install all
 ### ./setup.sh
@@ -18,7 +18,7 @@ Launch the REST HTTP-API server with the command:
 Run unittests with:
 #restapi tests
 ```
-
+ </br>
 run api command:</br>
 ### restapi launch</br>
 
