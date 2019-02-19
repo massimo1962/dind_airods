@@ -1,11 +1,11 @@
 # dind_airods
 docker in docker airods api
 
-how to::
+up and running in 3 step::
 
-clone this repo;</br></br>
-edit .projectrc file 
-with info on mongo and irods connections</br>
+clone this repo;</br>
+### edit .projectrc file </br>
+with info on mongo and irods connections </br>
 
 run install all</br>
 ### ./setup.sh</br>
@@ -26,6 +26,7 @@ enjoy!
 
 </br>
 in another terminal could be launched swagger interface with the command:</br>
-docker exec -it dind-airods rapydo interfaces swagger
+docker exec -it dind-airods rapydo interfaces swagger</br>
+that will be available on port 8080
 
 
