@@ -8,19 +8,19 @@ edit .projectrc file
 with info on mongo and irods connections</br>
 
 run install all</br>
-###./setup.sh</br>
+### ./setup.sh</br>
  at the end will be displayed </br></br>
 
 ```
 Launch the REST HTTP-API server with the command:
-restapi launch
+#restapi launch
 
 Run unittests with:
-restapi tests
+#restapi tests
 ```
 
 run api command:</br>
-###restapi launch</br>
+### restapi launch</br>
 
 enjoy!
 
